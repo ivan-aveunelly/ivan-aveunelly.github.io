@@ -17,11 +17,11 @@ describe('App', () => {
     cy.findByLabelText('toggle theme')
       .click()
       .should(() => {
-        expect(localStorage.getItem('anuraghazra-theme')).to.eq('dark');
+        expect(localStorage.getItem('ivanaveunelly-theme')).to.eq('dark');
       })
       .click()
       .should(() => {
-        expect(localStorage.getItem('anuraghazra-theme')).to.eq('light');
+        expect(localStorage.getItem('ivanaveunelly-theme')).to.eq('light');
       });
   });
 
