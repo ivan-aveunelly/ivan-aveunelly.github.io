@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://anuraghazra.github.io/">
     <img alt="Gatsby" src="./src/static/logo_noalpha.svg" width="100" />
@@ -119,3 +120,6 @@ git push YOUR_REPO_URL develop
 ------
 
 Made with :heart: and Gatsbyjs
+=======
+# ivan-aveunelly.github.io
+>>>>>>> 4573fad4e64b3cb06e1d53707fac4083e8150f29
