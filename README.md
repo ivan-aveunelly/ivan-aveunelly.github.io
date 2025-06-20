@@ -111,4 +111,4 @@ git push YOUR_REPO_URL develop
 Made with :heart: and Gatsbyjs
 =======
 # ivan-aveunelly.github.io
->>>>>>> 4573fad4e64b3cb06e1d53707fac4083e8150f29
+
