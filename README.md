@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <p align="center">
-  <a href="https://anuraghazra.github.io/">
+  <a href="https://ivan-aveunelly.github.io/">
     <img alt="Gatsby" src="./src/static/logo_noalpha.svg" width="100" />
     <h2 align="center">Ivan Aveunelly</h2>
   </a>
