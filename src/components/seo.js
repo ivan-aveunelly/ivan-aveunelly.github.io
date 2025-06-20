@@ -1,7 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import { useStaticQuery, graphql } from 'gatsby';
-import socialBanner from '@src/static/images/social-banner.jpg';
+import socialBanner from '@src/static/image.png';
 
 function SEO({ title, description, slug, isBlogPost }) {
   const { site } = useStaticQuery(graphql`
@@ -39,7 +39,7 @@ function SEO({ title, description, slug, isBlogPost }) {
 
   if (isBlogPost) {
     title = title + ' | Ivan Aveunelly';
-    ogimage = `${defaults.siteUrl}${slug}/social-banner-img.jpg`;
+    ogimage = `${defaults.siteUrl}${slug}/image.png`;
   }
   // console.log({ url, title, description, twitter, ogimage, imageWidth, imageHeight })
   return (
